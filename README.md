@@ -5,7 +5,7 @@ Dataset: web.DataReader - Yahoo Finance Historical Data
 
 The objective of this project was to analyze the US Healthcare stock industry over 2020-2021 and 2012-2021. Python was used to read, clean, and store web data.
 
-Interesting Notes:
+# Observations:
 
 - WBA really struggled to perform compared to its peers. It failed to make new highs in 2020 and 2021, and also has been lagging the industry over 2012-2021.
 - WBA also had a close in October 2020 that was lower than its March 2020 low. Ever since the RiteAid merger announcement in October 2015, WBA has been in a steady downtrend.
