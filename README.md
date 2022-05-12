@@ -31,7 +31,6 @@ pip install chart-studio
 
 pip install cufflinks
 
-pip install scipy | conda install -c anaconda scipy
 
 # Import
 import pandas_datareader.data as web
