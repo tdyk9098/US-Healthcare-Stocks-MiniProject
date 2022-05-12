@@ -3,8 +3,7 @@ Analyzing the top US Healthcare stocks, alongside XLV and a simple average healt
 
 Dataset: web.DataReader - Yahoo Finance Historical Data
 
-The objective of this project was to analyze the US Healthcare stock industry over 2020-2021 and 2012-2021. Python was used to read, clean, and store web data 
-and NumPy, Pandas, Matplotlib, Seaborn, Plotly, and Cufflinks were used to cluster and visualize data groups and provide an interactive exploratory experience.
+The objective of this project was to analyze the US Healthcare stock industry over 2020-2021 and 2012-2021. Python was used to read, clean, and store web data.
 
 Interesting Notes:
 
