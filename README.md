@@ -31,6 +31,8 @@ pip install chart-studio
 
 pip install cufflinks
 
+pip install pandas_datareader
+
 
 # Import
 import pandas_datareader.data as web
