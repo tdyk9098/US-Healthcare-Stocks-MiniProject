@@ -9,12 +9,15 @@ The objective of this project was to analyze the US Healthcare stock industry ov
 
 - WBA really struggled to perform compared to its peers. It failed to make new highs in 2020 and 2021, and also has been lagging the industry over 2012-2021.
 - WBA also had a close in October 2020 that was lower than its March 2020 low. Ever since the RiteAid merger announcement in October 2015, WBA has been in a steady downtrend.
+- Since 2015, WBA's performance has an R of -.896 with a P Val = 0 comparing its close to time past.
 - On the topic of a close lower than the March 2020 low, CAH had a -14.26% drop after posting earnings in August of 2021 (worst day in 2020-2021).
 - Recently, MCK, UNH, and ABC all outperform both XLV and a simple average index. Zooming out, however, only UNH has outperformed XLV (both UNH and ANTM outperform the simle average index).
 - MCK has had a wonderful recent performance, improving its Avg Annual Return by 26.32% with only a 8.4% increase in Standard Deviation: 82% improvement in Coefficient Variation.
 - CVS also has had a notable recent performance, improving its Avg Annual Return by 11.41% with only an 8.4% increase in Standard Deviation: 54.8% improvement in Coefficient Variation. 
 - UNH really stepped up in 2018, overtaking the top spot of returns since 2012 and hasn't given it back since.
+- Since 2018, UNH's performance has an R of .879 with a P Val = 0
 - CAH and WBA shareholders should reasonably be upset with the stock performance over the last 10 years. 
+- WBA is turning around slowly, after Oct 2020, however, it remains at depressed price levels.
 
 # Install
 pip install numpy | conda install numpy
